@@ -1,0 +1,36 @@
+body {
+  background-image: url("../images/Paws.jpg");
+  background-size: cover;
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  color: #0000ff;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+table,
+td {
+  border: 2px;
+  border-style: ridge;
+  border-color: white;
+  border-spacing: 4px;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.productName {
+  width: 10%;
+}
+.producting-img{
+  width: 50%;
+}
+.menu-cell {
+  padding: 25px;
+}
+
+.centered-text {
+  text-align: center;
+}
